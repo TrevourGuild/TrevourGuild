@@ -1,7 +1,5 @@
 ### Heres what I'm working on 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Graduating Lambda School
 - 🌱 I’m currently learning ... python
 - 👯 I’m looking to collaborate on ... Any projects
