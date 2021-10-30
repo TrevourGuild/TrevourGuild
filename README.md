@@ -1,7 +1,5 @@
 ### Heres what I'm working on 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Graduating Lambda School
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... trevorr.guildd@gmail.com
 - ⚡ Fun fact: ... I like to play videogames
--->
