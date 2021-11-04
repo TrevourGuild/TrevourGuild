@@ -14,4 +14,5 @@
 
 
 
-https://github-readme-stats.vercel.app/api?username=TrevourGuild&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+![githubscore](https://user-images.githubusercontent.com/82903417/140401817-830c47a8-fca8-45aa-9d8d-f5a83eda4c68.PNG)
+
