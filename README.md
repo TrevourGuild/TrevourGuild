@@ -1,6 +1,6 @@
 ### Heres what I'm working on 👋
 
-- 🔭 I’m currently working on ... Graduating Lambda School
+- 🔭 I’m currently working on ... Finding a Fullstack Engineering job!
 - 🌱 I’m currently learning ... python
 - 👯 I’m looking to collaborate on ... Any projects
 - 🤔 I’m looking for help with ... python
